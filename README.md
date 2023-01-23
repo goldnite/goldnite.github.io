@@ -3,7 +3,7 @@
 # Personal Portfolio
 
 My personal portfolio which features the most recent projects I worked on as well as my resume and technical skills. \
-The website is live **[here.](https://GoldenDev91.github.io)**
+The website is live **[here.](https://goldnite.github.io)**
 
 ## Sections 📚
 ✔️ About me \
